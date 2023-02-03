@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElectricPixel234
+- 👋 **Hello**
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning more about C#
 
