@@ -1,4 +1,4 @@
-- 👋 **Hello**
+**Hi there**
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning more about C#
 
